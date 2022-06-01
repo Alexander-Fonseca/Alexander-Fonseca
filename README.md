@@ -1,5 +1,6 @@
 ### System.out.println( "Alexander! 🤟" )
-It's-a me, Leco!😉                                                                                                       ![WhatsApp_Image_2022-06-01_at_10 57 59-removebg-preview__1_-removebg-preview](https://user-images.githubusercontent.com/101671694/171423053-478d64f5-af31-4c53-b865-35477ae48ffa.png)
+It's-a me, Leco!😉                                                                                                       
+<img align="right" width="250px" src="https://user-images.githubusercontent.com/101671694/171423053-478d64f5-af31-4c53-b865-35477ae48ffa.png" style="max-width: 100%;">
 
 Sobre mim
 
