@@ -25,5 +25,5 @@ Sobre mim
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexander-Fonseca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-  github-contribution-grid-snake.gif
+  ![snake gif](https://github.com/Alexander-Fonseca/Alexander-Fonseca/blob/output/github-contribution-grid-snake.svg)
  
