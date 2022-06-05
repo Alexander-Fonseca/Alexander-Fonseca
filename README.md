@@ -7,7 +7,7 @@ Sobre mim
 
 - 👨 Sou paulista, mas moro em Santa Catarina, formado em Sistemas de Informação.
 - 🐶 Curto pets e observar os pássaros 🐦.
-- 🔭 Atualmente estou buscando recolocação no mercado de trabalho.
+- 🔭 Buscando recolocação no mercado de trabalho.
 - 🌱 Iniciando os estudos em Frontend, estudando HTML5, CSS3 e JavaScript.
 - 💻 Trabalhei como analista de implantação e Customer Success por 6 anos.
 - 🎯 Meu objetivo atual é iniciar a transição de carreira para frontend.
@@ -22,7 +22,6 @@ Sobre mim
 <div>
 <a href="https://github.com/Alexander-Fonseca">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Fonseca&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexander-Fonseca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
   ![snake gif](https://github.com/Alexander-Fonseca/Alexander-Fonseca/blob/output/github-contribution-grid-snake.svg)
