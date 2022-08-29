@@ -7,10 +7,9 @@ Sobre mim
 
 - 👨 Sou paulista, mas moro em Santa Catarina, formado em Sistemas de Informação.
 - 🐶 Curto pets e observar os pássaros 🐦.
-- 🔭 Buscando recolocação no mercado de trabalho.
-- 🌱 Iniciando os estudos em Frontend, estudando HTML5, CSS3 e JavaScript.
+- 🌱 Iniciando os estudos em Frontend, com HTML5, CSS3, React e JavaScript.
 - 💻 Trabalhei como analista de implantação e Customer Success por 6 anos.
-- 🎯 Meu objetivo atual é iniciar a transição de carreira para frontend.
+- 🎯 Meu objetivo atual é a transição de carreira para FrontEnd.
 
 <br>
 
